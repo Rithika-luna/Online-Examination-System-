@@ -1,4 +1,4 @@
-<img width="1168" height="842" alt="644037834-a3d2c1fa-19f1-45db-970c-6ab989a27c45" src="https://github.com/user-attachments/assets/2efdc4fc-2a74-4bce-9ede-ce6e86142467" /># Online-Examination-System
+# Online-Examination-System
 # Reg No: 212225040344
 # Name: S Rithika
 # Date: 25-11-2026
